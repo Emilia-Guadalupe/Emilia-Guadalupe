@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Emmilia Guadalupe 👋
 
 <!--
-**Emilia-Guadalupe/Emilia-Guadalupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emilia-Guadalupe/Emilia-Guadalupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Full Stack Developer
+- 📫 How to reach me: m.emilia.guadalupe@gmail.com
+- ⚡ Fun fact: I started to learn to programme after I almost finished my degree in Social Communication, and it was an instant and very welcomed love 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me: 
+
+#### Languages and Tools
+
+* HTML
+* CSS
+* SASS
+* Javascript
+* Jquery 
+* React Js
+* Vue.js
+* Firebase
+* Git
+* Phyton
+

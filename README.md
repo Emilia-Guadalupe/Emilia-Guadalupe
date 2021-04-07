@@ -9,7 +9,7 @@
 
 #### Connect with me: 
 
-![Linkedin.Logo](https://www.linkedin.com/in/maria-emilia-guadalupe-a9b63b160/)
+![Linkedin Logo](https://raw.githubusercontent.com/Emilia-Guadalupe/Emilia-Guadalupe/main/Linkedin.png)
 
 #### Languages and Tools
 

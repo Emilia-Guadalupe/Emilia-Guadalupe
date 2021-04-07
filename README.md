@@ -9,6 +9,8 @@
 
 #### Connect with me: 
 
+![Linkedin.Logo](https://www.linkedin.com/in/maria-emilia-guadalupe-a9b63b160/)
+
 #### Languages and Tools
 
 * HTML

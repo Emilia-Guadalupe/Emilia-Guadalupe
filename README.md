@@ -9,7 +9,8 @@
 
 #### Connect with me: 
 
-![Linkedin Logo](https://raw.githubusercontent.com/Emilia-Guadalupe/Emilia-Guadalupe/main/Linkedin.png)
+<a href="https://www.linkedin.com/in/maria-emilia-guadalupe-a9b63b160/"><img height="100px" src="https://raw.githubusercontent.com/Emilia-Guadalupe/Emilia-Guadalupe/main/Linkedin.png" alt="Linkedin Logo" /> </a>
+
 
 #### Languages and Tools
 

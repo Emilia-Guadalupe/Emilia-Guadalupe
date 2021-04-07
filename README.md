@@ -1,4 +1,4 @@
-### Hi there, I'm Emmilia Guadalupe 👋
+### Hi there, I'm Emilia Guadalupe 👋
 
 <!--
 **Emilia-Guadalupe/Emilia-Guadalupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

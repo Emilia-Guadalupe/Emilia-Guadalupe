@@ -20,7 +20,7 @@ I'm always eager to learn new things, to make new projects :relaxed:
 
 <a href="https://www.linkedin.com/in/maria-emilia-guadalupe-a9b63b160/" target="_blank"><img height="50px" src="https://raw.githubusercontent.com/Emilia-Guadalupe/Emilia-Guadalupe/main/Linkedin.png" alt="Linkedin Logo" /> </a>
 
-#### Languages and Tools
+#### My Technologies: 
 
 :sparkles: HTML
 :sparkles: CSS
@@ -29,9 +29,5 @@ I'm always eager to learn new things, to make new projects :relaxed:
 :sparkles: Jquery
 :sparkles: Phyton
 :sparkles: Firebase
-:sparkles: Git
-
-#### Frameworks
-
 :sparkles: React Js
 :sparkles: Vue.js

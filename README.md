@@ -6,7 +6,7 @@
 
 Hi! Nice to meet you :smile:
 
-This is my <b>Github profile</b>. Many of my repositories are deployed, so you can see how the projects look in the links added to the README files. I like to try different kinds of projects, so you'll find and <b>e-commerce</b>, <b>some games</b>, <b>a piano</b>, some <b>to do lists</b>, just to name a few of my projects. 
+This is my <b>Github profile</b>. Many of my repositories are deployed, so you can see how the projects look in the links added to the README files. I like to try different kinds of projects, so you'll find an <b>e-commerce</b>, <b>some games</b>, <b>a piano</b>, some <b>to do lists</b>, just to name a few of them. 
 
 I'm always eager to learn new things, to make new projects :relaxed:
 

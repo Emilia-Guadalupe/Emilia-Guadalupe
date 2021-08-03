@@ -30,4 +30,4 @@ I'm always eager to learn new things, to make new projects :relaxed:
 :sparkles: Phyton
 :sparkles: Firebase
 :sparkles: React Js
-:sparkles: Vue.js
+:sparkles: Node.js
